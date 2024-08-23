@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.agent-create-step .ant-tabs-tab-btn {
+  font-size: 20px;
+  width: 120px;
+  line-height: 36px;
+  font-weight: 600;
+  text-align: center;
+}
